@@ -1,2 +1,6 @@
-# WAB_LEAP-ClickReport
-Click report for LEAP Verification application.
+# WAB_ClickReport-LEAP
+Click report for LEAP Verification application: https://wspdsmap.cityoftacoma.org/website/CED/LEAP/
+
+Instructions:
+1. Copy mjm_ClickReport.js to \libs folder
+2. The rest of files contained in WAB_Override-Default-Map-Click repo.
